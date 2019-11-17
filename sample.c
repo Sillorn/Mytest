@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-//eezdqz
+//test
 printf("hello world");
 return 0;
 }
